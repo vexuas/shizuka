@@ -1,4 +1,4 @@
-# shizukesa
+# shizuka
 Might as well make a list of my projects here. Will eventually make a dedicated site for it but 'tis not today! Should really make an app that's not related to aura kingdom lmao
 
 Sorted by date started
